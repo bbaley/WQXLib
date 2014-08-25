@@ -10,8 +10,8 @@ import requests
 #========================================================================= 
 
 errors = 0
-url = 'https://usace.gaiaserve.net'
-authToken = "4d331524a58fca12168c0a48a4ae5bdd"
+url = ''
+authToken = ""
 hdrs = {'Authorization': 'token ' + authToken, 'Content-Type': 'application/json'}
 #========================================================================= 
     
